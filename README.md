@@ -13,7 +13,7 @@ To evaluate the controller's robustness, the system undergoes a sudden **Step-Lo
 
 Here is the simulation output showing smooth startup tracking and clean transient disturbance rejection:
 
-![Simulation Results](simulation_results.png)
+![Simulation Results]([simulation_results.png](https://github.com/ouma-douglas/buck-boost-converter-simulation/blob/main/buck_boost_simulation/simulation_results.png))
 
 ### Key Results:
 1. **Startup Performance:** The system reaches the target steady-state voltage within approximately $15\text{ms}$ with zero critical overshoot.
